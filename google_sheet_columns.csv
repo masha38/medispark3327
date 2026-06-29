@@ -1,0 +1,2 @@
+접수일시,이름,연락처,문의,개발자,상담상태,유입페이지,UTM Source,UTM Medium,UTM Campaign,접수ID,User Agent
+2026-06-30 10:30:00,홍길동,010-1234-5678,84A 타입 방문상담을 희망합니다.,장문희,신규,https://example.com/?utm_source=naver&utm_medium=cpc&utm_campaign=braincity,naver,cpc,braincity,550e8400-e29b-41d4-a716-446655440000,Mozilla/5.0
