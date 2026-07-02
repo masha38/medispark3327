@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://masha38.github.io/medispark3327/sitemap.xml
+
