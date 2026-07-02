@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="메디스파크">
+  <rect width="64" height="64" rx="14" fill="#062f39"/>
+  <circle cx="49" cy="14" r="6" fill="#e84b18"/>
+  <path d="M15 45V18h7l10 15 10-15h7v27h-7V29L32 43 22 29v16z" fill="#fff"/>
+</svg>
