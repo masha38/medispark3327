@@ -1,4 +1,8 @@
 User-agent: *
 Allow: /
 
+User-agent: Yeti
+Allow: /
+
+Host: www.megakmart.com
 Sitemap: https://www.megakmart.com/sitemap.xml

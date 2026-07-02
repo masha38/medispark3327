@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://www.megakmart.com/</loc>
     <lastmod>2026-07-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.megakmart.com/assets/og-medispark.png</image:loc>
+      <image:title>평택 브레인시티 메디스파크 6BL</image:title>
+      <image:caption>평택 브레인시티 메디스파크 분양 및 방문상담 안내</image:caption>
+    </image:image>
   </url>
 </urlset>
